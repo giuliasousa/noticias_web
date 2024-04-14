@@ -1,0 +1,1 @@
+const botaoAbrir = document.querySelector(".header-mobile > button")
